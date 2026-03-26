@@ -85,8 +85,7 @@ The success of the agent depends on a carefully designed fitness function that r
 ### AI Training Process (Generation 1 vs Generation 50)
 |                                                                Initial Random Jumps (Gen 0)                                                                 | Optimized Survival (Gen 50+) |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------:| :---: |
-| [NEAT Dinosaur  —  Generation 2 2026-03-26 05-00-20.mp4](../Videos/Captures/NEAT%20Dinosaur%20%20%E2%80%94%20%20Generation%202%202026-03-26%2005-00-20.mp4) | [NEAT Dinosaur  —  Generation 53 2026-03-26 04-43-30.mp4](../Videos/Captures/NEAT%20Dinosaur%20%20%E2%80%94%20%20Generation%2053%202026-03-26%2004-43-30.mp4)
-|
+| <!-- Uploading "NEAT Dinosaur  —  Generation 2 2026-03-26 05-00-20.mp4"... --> | <!-- Failed to upload "NEAT Dinosaur  —  Generation 53 2026-03-26 04-43-30.mp4" --> |
 ---
 
 ### Acknowledgments
