@@ -80,15 +80,13 @@ The success of the agent depends on a carefully designed fitness function that r
 *   **Neural Visualization:** High-performing Dinos feature a visual indicator showing the activation level of their output neuron.
 
 ---
----
 ## 📺 Project in Action
 
 ### AI Training Process (Evolutionary Progress)
 
 | Initial Random Jumps (Gen 0) | Optimized Survival (Gen 50+) |
 | :---: | :---: |
-| https://github.com/user-attachments/assets/55441753-11cb-49d3-9294-74f9bfccae00 | https://github.com/user-attachments/assets/d8f88afe-27de-42ac-baee-69c7cf287dcf |
-
+| ![Gen 0 Video](https://github.com/user-attachments/assets/55441753-11cb-49d3-9294-74f9bfccae00) | ![Gen 50 Video](https://github.com/user-attachments/assets/d8f88afe-27de-42ac-baee-69c7cf287dcf) |
 ---
 
 ### Acknowledgments
