@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/6566b145-35ec-441b-930d-ff4d15ff3636
 # NEAT Dino Game 🦕
 
 
