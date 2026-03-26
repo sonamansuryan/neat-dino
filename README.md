@@ -29,7 +29,7 @@ The AI "sees" the game state through 5 normalized parameters:
 *   **Distance to Obstacle:** Horizontal distance to the nearest upcoming cactus.
 *   **Obstacle Height:** The height of the incoming obstacle.
 *   **Game Speed:** The current velocity of the environment.
-*   **Vertical Velocity ($v_y$):** Whether the Dino is currently rising or falling.
+*   **Vertical Velocity (v<sub>y</sub>):** Whether the Dino is currently rising or falling.
 
 #### **Output (1 Action)**
 *   **Jump Trigger:** A single output neuron with a `tanh` activation function. If the output exceeds a predefined threshold (e.g., `> 0.5`), the Dino performs a jump.
