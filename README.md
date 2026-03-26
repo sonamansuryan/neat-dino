@@ -1,6 +1,6 @@
 # NEAT Dino Game 🦕
 
-
+<img width="1635" height="1066" alt="Screenshot 2026-03-26 052232" src="https://github.com/user-attachments/assets/81fdd461-04f3-4fcb-b259-858b143187d7" />
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Library](https://img.shields.io/badge/library-pygame-yellow.svg)
