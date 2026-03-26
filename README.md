@@ -1,14 +1,12 @@
 # NEAT Dino Game 🦕
 
-
-<img width="1546" height="544" alt="Screenshot 2026-03-26 053510" src="https://github.com/user-attachments/assets/fd82f7a0-305f-4039-9ef4-5e7f08a5e822" />
-
-
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Library](https://img.shields.io/badge/library-pygame-yellow.svg)
 ![Algorithm](https://img.shields.io/badge/algorithm-NEAT-orange.svg)
 
 An autonomous AI agent trained to play a custom-built, pixel-art version of the Chrome Dinosaur Game. The agent utilizes **NeuroEvolution of Augmenting Topologies (NEAT)** to evolve its own neural network architecture and decision-making logic through Darwinian natural selection.
+
+<img width="1546" height="544" alt="Screenshot 2026-03-26 053510" src="https://github.com/user-attachments/assets/fd82f7a0-305f-4039-9ef4-5e7f08a5e822" />
 
 ---
 
