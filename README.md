@@ -80,21 +80,6 @@ The success of the agent depends on a carefully designed fitness function that r
 *   **Neural Visualization:** High-performing Dinos feature a visual indicator showing the activation level of their output neuron.
 
 ---
----
-## 📺 Project in Action
-
-### 1. Initial Random Jumps (Generation 0)
-*At the start of the training, the agent has no knowledge of the game and performs random actions.*
-
-https://github.com/user-attachments/assets/ad7636e3-8e00-48c8-add4-712bd8aea9dd
-
-### 2. Optimized Survival (Generation 53)
-*After 53 generations, the AI has evolved a perfect neural network to clear obstacles at maximum speed.*
-
-https://github.com/user-attachments/assets/b2e41ecb-afea-42ed-9cf8-2088ce283589
-
-
----
 
 ### Acknowledgments
 *   Inspired by the original Chrome Dino game.
